@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AFNetworking.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>BFRadialWaveView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-RottenTomatoes.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>UIColor+BFPaperColors.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>29182AF3F07877F9873EA252E21A9A05</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>66BBD74775E7915B0DCB79D8719F9FCC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C2C0777432AECB8ABAF8229CB8F949BD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F43885B233F4B9CCC43E1736A5087DD7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
